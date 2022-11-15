@@ -1,0 +1,13 @@
+.bg{
+      background: #6E6E6E ;
+     
+}
+.nav{
+      background: #2568FB;
+}
+.text{
+      color: #BCFD4C;
+}
+.side_nav a:hover {
+      background: #3374C2;
+  }
